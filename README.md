@@ -51,7 +51,7 @@ Miscellaneous:
 ### More info:
 
 - 📫 Contact me via: <tymonkwiat@gmail.com>
-- 📃 Visit my website: [tymonkwiatkowski.tk](https://tymonkwiatkowski.tk)
+<!-- - 📃 Visit my website: [tymonkwiatkowski.tk](https://tymonkwiatkowski.tk) -->
 
 <!--
 **tyren234/tyren234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
