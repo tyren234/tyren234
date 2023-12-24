@@ -16,7 +16,6 @@ Languages:
 <img align="left" alt="Markdown" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="PostreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="PostreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 <br /><br /><br />
 Utilities:
 <br /><br />
@@ -37,7 +36,16 @@ IDE:
 <br /><br />
 <img align="left" alt="VsCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/393/139/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-scala-idea-miscellaneous-blue-angle.png" />
+<img align="left" alt="Intellij" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Pycharm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg" />
+<br /><br /><br />
+
+Databases:
+<br /><br />
+<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="redis" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+<img align="left" alt="neo3j" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+<img align="left" alt="Sqlite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
 
 <br /><br /><br />
@@ -51,7 +59,7 @@ Miscellaneous:
 <img align="left" alt="QT" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 
 <br /><br /><br />
-
+<!-- Icons from https://devicon.dev/ -->
 ### More info:
 
 - 📫 Contact me via: <tymonkwiat@gmail.com>
