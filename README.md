@@ -2,7 +2,7 @@
 
 Keep It Stupidly Simple, DRY, and SOLID. 
 
-And if you don't know how to do your project, read up on the [design patterns](https://en.wikipedia.org/wiki/Design_Patterns).
+Alway's trying to know more of the [design patterns](https://en.wikipedia.org/wiki/Design_Patterns).
 
 ---
 
